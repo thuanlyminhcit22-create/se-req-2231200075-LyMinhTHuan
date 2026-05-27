@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:47:56.043Z",
+  "savedAt": "2026-05-27T04:50:21.115Z",
   "groups": [
     {
       "id": "9d957254-6ed4-4317-97b2-e04b9f538d1c",
@@ -21,7 +21,7 @@
   "analysis": {
     "ambiguity1": "The statement \"The course catalog is ugly\" is vague because it does not specify what usability or design problems exist. There are no measurable UI requirements.",
     "ambiguity2": "The requirement \"warn me if I’m choosing a class that starts at 8:00 AM\" is vague because it does not specify how the warning should appear, when it should trigger, or whether students can ignore the warning and continue selecting the class.",
-    "conflictSolution": "",
+    "conflictSolution": "The system should allow students to add future courses as tentative plans, but prevent enrollment into currently full classes during actual registration periods.",
     "nfr1": "",
     "nfr2": "",
     "nfr3": ""
