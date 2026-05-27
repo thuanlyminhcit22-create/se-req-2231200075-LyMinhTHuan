@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:59:53.357Z",
+  "savedAt": "2026-05-27T05:00:54.424Z",
   "groups": [
     {
       "id": "9d957254-6ed4-4317-97b2-e04b9f538d1c",
@@ -32,6 +32,16 @@
       "id": "38a92996-766d-462d-8004-6691750d62a1",
       "title": "US002: Student 2",
       "description": "As a Student,\nI want the system to warn me about missing prerequisites,\nso that I can avoid invalid course selections.\n\nAcceptance Criteria:\n- System checks prerequisites automatically\n- Warning message appears for invalid selections\n- Students cannot confirm invalid schedules",
+      "groupId": "40f98464-432a-4514-bb41-6133565b1450",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "e34a5a30-519f-4829-8db4-d0cb7aba20d3",
+      "title": "US003: Student 3",
+      "description": "As a Student,\nI want to view course availability,\nso that I know whether a class is full.\n\nAcceptance Criteria:\n- System displays available seats\n- Full classes are marked clearly\n- Data updates from the live database",
       "groupId": "40f98464-432a-4514-bb41-6133565b1450",
       "status": "todo",
       "type": "User Story",
