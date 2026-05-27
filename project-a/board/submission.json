@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:58:15.437Z",
+  "savedAt": "2026-05-27T04:59:53.357Z",
   "groups": [
     {
       "id": "9d957254-6ed4-4317-97b2-e04b9f538d1c",
@@ -22,6 +22,16 @@
       "id": "1dc9d583-c413-4e32-8e95-93d9d6a29cbb",
       "title": "US001: Student 1",
       "description": "As a Student,\nI want to drag and drop courses into a calendar,\nso that I can plan my semester visually.\n\nAcceptance Criteria:\n- Student can drag courses into the planner\n- System saves the selected courses\n- Schedule conflicts are highlighted",
+      "groupId": "40f98464-432a-4514-bb41-6133565b1450",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "38a92996-766d-462d-8004-6691750d62a1",
+      "title": "US002: Student 2",
+      "description": "As a Student,\nI want the system to warn me about missing prerequisites,\nso that I can avoid invalid course selections.\n\nAcceptance Criteria:\n- System checks prerequisites automatically\n- Warning message appears for invalid selections\n- Students cannot confirm invalid schedules",
       "groupId": "40f98464-432a-4514-bb41-6133565b1450",
       "status": "todo",
       "type": "User Story",
