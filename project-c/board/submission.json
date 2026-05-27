@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T05:37:15.371Z",
+  "groups": [
+    {
+      "id": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "516cca22-078b-4abd-881b-d41e80f7ee75",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "b4b141b2-d293-4fa2-9336-d0c80116465c",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The requirement \"reduce the queue\" is vague because it does not define measurable targets or how queue reduction should be evaluated.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
