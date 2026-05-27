@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T05:17:56.668Z",
+  "groups": [
+    {
+      "id": "feabf61e-a42a-433e-9e65-2d7d9ca4cad8",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "ab72a7e3-484b-47d8-801f-1dea8b2a4cbc",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "930f1550-f454-4fcc-ae42-67f97dda556c",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The requirement \"This needs to be exclusive\" is vague because it does not clearly define who is allowed to access the platform or how eligibility should be verified.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
