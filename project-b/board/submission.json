@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:33:36.279Z",
+  "savedAt": "2026-05-27T05:34:18.591Z",
   "groups": [
     {
       "id": "feabf61e-a42a-433e-9e65-2d7d9ca4cad8",
@@ -52,6 +52,16 @@
       "id": "abc6d397-21f6-4df5-b1ee-2a5f018a7414",
       "title": "US004: Admin/Staff",
       "description": "As a Staff Member,\nI want to manage approved safe exchange zones,\nso that students can meet in secure locations.\n\nAcceptance Criteria:\n- Staff can add safe zones\n- Staff can remove unsafe locations\n- Changes update immediately for users",
+      "groupId": "ab72a7e3-484b-47d8-801f-1dea8b2a4cbc",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "89b84077-2630-49e6-9509-d8005b14a362",
+      "title": "US005: Student 5",
+      "description": "As a Student,\nI want to create auction listings,\nso that I can sell items to the highest bidder.\n\nAcceptance Criteria:\n- Users can set auction duration\n- Users can place bids\n- Highest bid is displayed in real time",
       "groupId": "ab72a7e3-484b-47d8-801f-1dea8b2a4cbc",
       "status": "todo",
       "type": "User Story",
