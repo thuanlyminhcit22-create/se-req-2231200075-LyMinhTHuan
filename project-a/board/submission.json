@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T04:40:26.955Z",
+  "groups": [
+    {
+      "id": "9d957254-6ed4-4317-97b2-e04b9f538d1c",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "40f98464-432a-4514-bb41-6133565b1450",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "3ce5d811-23f7-4131-a893-06d91075d600",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The statement \"The course catalog is ugly\" is vague because it does not specify what usability or design problems exist. There are no measurable UI requirements.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
