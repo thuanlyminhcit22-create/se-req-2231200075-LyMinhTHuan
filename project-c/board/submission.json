@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:43:29.176Z",
+  "savedAt": "2026-05-27T05:44:15.741Z",
   "groups": [
     {
       "id": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
@@ -22,6 +22,16 @@
       "id": "3d091f41-a1ab-49f5-9bf1-f151db8b1f93",
       "title": "US001: Student 1",
       "description": "As a Student,\nI want to order food using my phone,\nso that I can avoid waiting in long cafeteria lines.\n\nAcceptance Criteria:\n- Students can browse the menu\n- Orders can be placed through the app\n- Order confirmation is displayed after submission",
+      "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "5425428c-23f4-402e-a4fc-420c36f04ebf",
+      "title": "US002: Student 2",
+      "description": "As a Student,\nI want to filter menu items by allergies,\nso that I can avoid unsafe food options.\n\nAcceptance Criteria:\n- Users can select allergy filters\n- Unsafe menu items are hidden\n- Filters update the menu immediately",
       "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
       "status": "todo",
       "type": "User Story",
