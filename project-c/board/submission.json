@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:46:38.111Z",
+  "savedAt": "2026-05-27T05:48:22.137Z",
   "groups": [
     {
       "id": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
@@ -65,6 +65,36 @@
       "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
       "status": "todo",
       "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "95eb3673-c471-479e-b1f2-88c192def613",
+      "title": "Reliable Offline Operation",
+      "description": "Ensure the kitchen system continues working during temporary internet outages.",
+      "groupId": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "66f1a492-5c0f-47be-a81c-103877fde7b1",
+      "title": "Fast Order Processing",
+      "description": "Provide fast order updates and minimize delays during lunch rush hours.",
+      "groupId": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "70bf5dfa-e6f5-4a16-b8dc-4c04bee0afdf",
+      "title": "Accessible Allergy Filtering",
+      "description": "Allow students to filter menu items based on allergy preferences.",
+      "groupId": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
+      "status": "todo",
+      "type": "Epic",
       "priority": "Medium",
       "owner": ""
     }
