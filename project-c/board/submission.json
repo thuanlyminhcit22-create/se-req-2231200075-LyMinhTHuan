@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:45:09.061Z",
+  "savedAt": "2026-05-27T05:45:53.583Z",
   "groups": [
     {
       "id": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
@@ -42,6 +42,16 @@
       "id": "b004db41-143b-4883-933f-779ed7cbe823",
       "title": "US003: Student 3",
       "description": "As a Student,\nI want to receive discount notifications,\nso that I can take advantage of cafeteria promotions.\n\nAcceptance Criteria:\n- Notifications are sent at scheduled times\n- Notifications display discount details\n- Users can open the app from the notification",
+      "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "f33c5e2b-e1b2-4ee9-a010-bb2f96698048",
+      "title": "US004: Staff/Admin",
+      "description": "As a Cafeteria Staff Member,\nI want to mark menu items as sold out,\nso that students cannot order unavailable food.\n\nAcceptance Criteria:\n- Staff can mark items as sold out\n- Sold out items disappear from ordering\n- Changes update immediately for students",
       "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
       "status": "todo",
       "type": "User Story",
