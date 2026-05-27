@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:41:07.947Z",
+  "savedAt": "2026-05-27T05:42:35.855Z",
   "groups": [
     {
       "id": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
@@ -22,8 +22,8 @@
     "ambiguity1": "The requirement \"reduce the queue\" is vague because it does not define measurable targets or how queue reduction should be evaluated.",
     "ambiguity2": "The push notification requirement is ambiguous because it does not specify notification frequency, target users, or whether users can disable notifications.",
     "conflictSolution": "The kitchen display system should support offline operation for up to 10 minutes by storing orders locally and synchronizing automatically once the internet connection is restored.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Reliability: offline mode",
+    "nfr2": "Performance: realtime order updates",
+    "nfr3": "Accessibility: allergy filtering"
   }
 }
