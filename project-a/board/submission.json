@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:00:54.424Z",
+  "savedAt": "2026-05-27T05:02:50.703Z",
   "groups": [
     {
       "id": "9d957254-6ed4-4317-97b2-e04b9f538d1c",
@@ -42,6 +42,16 @@
       "id": "e34a5a30-519f-4829-8db4-d0cb7aba20d3",
       "title": "US003: Student 3",
       "description": "As a Student,\nI want to view course availability,\nso that I know whether a class is full.\n\nAcceptance Criteria:\n- System displays available seats\n- Full classes are marked clearly\n- Data updates from the live database",
+      "groupId": "40f98464-432a-4514-bb41-6133565b1450",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "2b084966-d0c0-403e-b5b1-80fee3c49931",
+      "title": "US004: Admin/Staff",
+      "description": "As an Advisor,\nI want to override prerequisite restrictions,\nso that I can approve exceptional student cases.\n\nAcceptance Criteria:\n- Advisor can override prerequisites\n- System logs override actions\n- Students can view approved overrides",
       "groupId": "40f98464-432a-4514-bb41-6133565b1450",
       "status": "todo",
       "type": "User Story",
