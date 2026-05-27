@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:19:59.761Z",
+  "savedAt": "2026-05-27T05:21:32.341Z",
   "groups": [
     {
       "id": "feabf61e-a42a-433e-9e65-2d7d9ca4cad8",
@@ -22,8 +22,8 @@
     "ambiguity1": "The requirement \"This needs to be exclusive\" is vague because it does not clearly define who is allowed to access the platform or how eligibility should be verified.",
     "ambiguity2": "The requirement about \"Safe Exchange Zones\" is ambiguous because it does not specify how zones are selected, managed, or enforced during user meetups.",
     "conflictSolution": "The application should not process payments directly. Instead, users can complete payments using external services such as Venmo or cash, while the Student Union may charge listing or membership fees separately outside the payment transaction.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Security: verify .edu",
+    "nfr2": "Safety: safe exchange zones",
+    "nfr3": "Usability: barcode scan"
   }
 }
