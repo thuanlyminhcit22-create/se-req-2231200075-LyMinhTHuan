@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:25:28.763Z",
+  "savedAt": "2026-05-27T05:30:25.640Z",
   "groups": [
     {
       "id": "feabf61e-a42a-433e-9e65-2d7d9ca4cad8",
@@ -22,16 +22,6 @@
       "id": "0f5b4ea2-2c8b-47fd-8ca6-d81df0b5b926",
       "title": "US001: Student 1",
       "description": "As a Student,\nI want to register using my .edu email,\nso that only verified students can access the marketplace.\n\nAcceptance Criteria:\n- Users must use a valid .edu email\n- Verification email is sent\n- Unverified accounts cannot log in",
-      "groupId": "ab72a7e3-484b-47d8-801f-1dea8b2a4cbc",
-      "status": "todo",
-      "type": "User Story",
-      "priority": "Medium",
-      "owner": ""
-    },
-    {
-      "id": "cf9f235c-6d85-430d-a001-5fd186ca8ec8",
-      "title": "US002: Student 2",
-      "description": "As a Student,\nI want to scan textbook barcodes,\nso that I can quickly create listings.\n\nAcceptance Criteria:\n- Camera can scan ISBN barcodes\n- Book title autofills after scan\n- Users can edit listing details",
       "groupId": "ab72a7e3-484b-47d8-801f-1dea8b2a4cbc",
       "status": "todo",
       "type": "User Story",
