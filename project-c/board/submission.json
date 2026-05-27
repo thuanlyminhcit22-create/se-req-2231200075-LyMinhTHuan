@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:42:35.855Z",
+  "savedAt": "2026-05-27T05:43:29.176Z",
   "groups": [
     {
       "id": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "3d091f41-a1ab-49f5-9bf1-f151db8b1f93",
+      "title": "US001: Student 1",
+      "description": "As a Student,\nI want to order food using my phone,\nso that I can avoid waiting in long cafeteria lines.\n\nAcceptance Criteria:\n- Students can browse the menu\n- Orders can be placed through the app\n- Order confirmation is displayed after submission",
+      "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    }
+  ],
   "analysis": {
     "ambiguity1": "The requirement \"reduce the queue\" is vague because it does not define measurable targets or how queue reduction should be evaluated.",
     "ambiguity2": "The push notification requirement is ambiguous because it does not specify notification frequency, target users, or whether users can disable notifications.",
