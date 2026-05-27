@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:32:05.588Z",
+  "savedAt": "2026-05-27T05:32:49.653Z",
   "groups": [
     {
       "id": "feabf61e-a42a-433e-9e65-2d7d9ca4cad8",
@@ -32,6 +32,16 @@
       "id": "cf23d363-21b3-4357-badd-8195afdc339d",
       "title": "US002: Student 2",
       "description": "As a Student,\nI want to scan textbook barcodes,\nso that I can quickly create listings.\n\nAcceptance Criteria:\n- Camera can scan ISBN barcodes\n- Book title autofills after scan\n- Users can edit listing details",
+      "groupId": "ab72a7e3-484b-47d8-801f-1dea8b2a4cbc",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "168f501a-f6bd-4645-9215-26c1e1efe3db",
+      "title": "US003: Student 3",
+      "description": "As a Student,\nI want to choose safe exchange zones,\nso that I can meet buyers safely.\n\nAcceptance Criteria:\n- System displays approved safe zones\n- Users must select a zone before chatting\n- Selected zone is visible in the chat",
       "groupId": "ab72a7e3-484b-47d8-801f-1dea8b2a4cbc",
       "status": "todo",
       "type": "User Story",
