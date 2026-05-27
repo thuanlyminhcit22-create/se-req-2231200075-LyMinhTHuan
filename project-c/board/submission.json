@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:44:15.741Z",
+  "savedAt": "2026-05-27T05:45:09.061Z",
   "groups": [
     {
       "id": "2c3b5523-08a1-4e40-a7f5-5763f6a60437",
@@ -32,6 +32,16 @@
       "id": "5425428c-23f4-402e-a4fc-420c36f04ebf",
       "title": "US002: Student 2",
       "description": "As a Student,\nI want to filter menu items by allergies,\nso that I can avoid unsafe food options.\n\nAcceptance Criteria:\n- Users can select allergy filters\n- Unsafe menu items are hidden\n- Filters update the menu immediately",
+      "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "b004db41-143b-4883-933f-779ed7cbe823",
+      "title": "US003: Student 3",
+      "description": "As a Student,\nI want to receive discount notifications,\nso that I can take advantage of cafeteria promotions.\n\nAcceptance Criteria:\n- Notifications are sent at scheduled times\n- Notifications display discount details\n- Users can open the app from the notification",
       "groupId": "516cca22-078b-4abd-881b-d41e80f7ee75",
       "status": "todo",
       "type": "User Story",
