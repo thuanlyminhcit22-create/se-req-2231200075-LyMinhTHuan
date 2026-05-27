@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:53:03.586Z",
+  "savedAt": "2026-05-27T04:58:15.437Z",
   "groups": [
     {
       "id": "9d957254-6ed4-4317-97b2-e04b9f538d1c",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "1dc9d583-c413-4e32-8e95-93d9d6a29cbb",
+      "title": "US001: Student 1",
+      "description": "As a Student,\nI want to drag and drop courses into a calendar,\nso that I can plan my semester visually.\n\nAcceptance Criteria:\n- Student can drag courses into the planner\n- System saves the selected courses\n- Schedule conflicts are highlighted",
+      "groupId": "40f98464-432a-4514-bb41-6133565b1450",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    }
+  ],
   "analysis": {
     "ambiguity1": "The statement \"The course catalog is ugly\" is vague because it does not specify what usability or design problems exist. There are no measurable UI requirements.",
     "ambiguity2": "The requirement \"warn me if I’m choosing a class that starts at 8:00 AM\" is vague because it does not specify how the warning should appear, when it should trigger, or whether students can ignore the warning and continue selecting the class.",
